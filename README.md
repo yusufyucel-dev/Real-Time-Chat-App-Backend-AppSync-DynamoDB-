@@ -15,7 +15,7 @@ The core architecture relies on AWS AppSync to handle all GraphQL queries and re
 
 Architecture Diagram:
 
-![Architecture Diagram](Screenshots/diagram.png)
+![Architecture Diagram](Screenshots/diagram.jpg)
 
 ## Key Technical Achievements
 
